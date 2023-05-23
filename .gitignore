@@ -1,5 +1,6 @@
 # [ADDED] Frames of Bad Apple
 frames/
+outframes/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
